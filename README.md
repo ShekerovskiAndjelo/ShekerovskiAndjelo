@@ -7,7 +7,9 @@ Full Stack PHP/Laravel Developer
 As an aspiring developer, my enthusiasm for technology and problem-solving has steered me towards specializing in web development. I have cultivated a strong skill set in PHP and Laravel, building the backbone for dynamic web applications. My proficiency extends to the intricacies of SQL for robust database management, as well as JavaScript and jQuery for creating interactive and user-friendly interfaces. With a commitment to continuous learning and improvement, I am eager to collaborate, innovate, and contribute to impactful projects in the tech industry.
 
 * 🌍  I'm based in Macedonia
-* ✉️  You can contact me at [andjeloshekerovski@gmail.com](mailto:andjeloshekerovski@gmail.com)
+* 🖥️  See my portfolio at [personal page](http://andjeloshekerovski.com)
+* ✉️  Feel free to contact me at [andjeloshekerovski@gmail.com](mailto:andjeloshekerovski@gmail.com) or [contact@andjeloshekerovski.com](mailto:contact@andjeloshekerovski.com)
+* ⚡  Open to work
 
 ### Skills
 
